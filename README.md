@@ -32,8 +32,6 @@ LanceDB, and Ollama/Groq. Dockerized full-stack deployment.
 
 ## Tech Stack
 
-## Tech Stack
-
 **Languages**  
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -64,7 +62,8 @@ LanceDB, and Ollama/Groq. Dockerized full-stack deployment.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/abhishek-saha) · abhishek.saha2002@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-saha)
+[![Email](https://img.shields.io/badge/Email-abhishek.saha2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.saha2002@gmail.com)
 
 <!--
 **abhisheksaha2002/abhisheksaha2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
