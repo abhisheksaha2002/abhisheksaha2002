@@ -7,10 +7,9 @@ Incoming MS in Computer Science at UMass Amherst (Sep 2026), focused on AI and s
 
 ## About Me
 
-I work on backend engineering and AI/ML systems — enterprise search infrastructure, 
-retrieval-augmented generation pipelines, and deep learning for medical imaging. 
-Currently doing remote deep learning research under faculty supervision at 
-De Montfort University Dubai.
+I'm a backend engineer passionate about building scalable AI systems that solve real-world problems. My interests lie at the intersection of backend engineering, retrieval-augmented generation (RAG), distributed systems, and machine learning.
+
+Currently, I'm conducting remote deep learning research under faculty supervision at <strong>De Montfort University Dubai</strong>. Alongside my research, I'm focused on building expertise in large-scale AI systems, retrieval-augmented generation, and distributed machine learning infrastructure.
 
 ## Experience
 
@@ -65,17 +64,15 @@ LanceDB, and Ollama/Groq. Dockerized full-stack deployment.
 
 ## Connect
 
-<p align="center">
+
   <a href="mailto:abhishek.saha2002@gmail.com">
     <img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&labelColor=EA4335&color=EA4335" height="40"/>
   </a>
 
-  &nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/abhishek-saha">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
-</p>
+
 <!--
 **abhisheksaha2002/abhisheksaha2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
