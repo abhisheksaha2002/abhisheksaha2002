@@ -66,7 +66,7 @@ LanceDB, and Ollama/Groq. Dockerized full-stack deployment.
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.saha2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-saha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-saha-705095200/)
 <!--
 **abhisheksaha2002/abhisheksaha2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
