@@ -70,8 +70,8 @@ LanceDB, and Ollama/Groq. Dockerized full-stack deployment.
 </a>
 
   <a href="https://www.linkedin.com/in/abhishek-saha">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" alt="LinkedIn">
-</a>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  </a>
 <!--
 **abhisheksaha2002/abhisheksaha2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
