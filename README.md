@@ -65,13 +65,8 @@ LanceDB, and Ollama/Groq. Dockerized full-stack deployment.
 ## Connect
 
 
-  <a href="mailto:abhishek.saha2002@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-  <a href="https://www.linkedin.com/in/abhishek-saha">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-  </a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.saha2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-saha)
 <!--
 **abhisheksaha2002/abhisheksaha2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
