@@ -1,4 +1,7 @@
-# Hi, I'm Abhishek Saha
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Hi, I'm <span style="color:#00BFFF;">Abhishek Saha</span>
+</h1>
 
 Incoming MS in Computer Science at UMass Amherst (Sep 2026), focused on AI and systems.
 
@@ -62,9 +65,17 @@ LanceDB, and Ollama/Groq. Dockerized full-stack deployment.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-saha)
-[![Email](https://img.shields.io/badge/Email-abhishek.saha2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.saha2002@gmail.com)
+<p align="center">
+  <a href="mailto:abhishek.saha2002@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&labelColor=EA4335&color=EA4335" height="40"/>
+  </a>
 
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/abhishek-saha">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  </a>
+</p>
 <!--
 **abhisheksaha2002/abhisheksaha2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
