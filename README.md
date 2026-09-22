@@ -3,7 +3,7 @@
   Hi, I'm <span style="color:#00BFFF;">Abhishek Saha</span>
 </h1>
 
-Incoming MS in Computer Science at UMass Amherst (Sep 2026), focused on AI and systems.
+MS in Computer Science at UMass Amherst, focused on AI and systems.
 
 ## About Me
 
